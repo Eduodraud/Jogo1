@@ -1,0 +1,1 @@
+Esse projeto apresenta um jogo (desafio) para encontrar um número secreto aleatório, com base nos chutes. Criado por Eduardo S.M.
